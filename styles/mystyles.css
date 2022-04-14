@@ -1,0 +1,37 @@
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.aboutfooter{
+    align-items:center; 
+    color:rgb(49, 49, 206); 
+    text-align:center; 
+    font-style:italic; 
+}
+ul{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black
+}
+ol{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black
+}
+.topn{
+    align-items:center; 
+    text-align:center; 
+    font-weight:bold; 
+}
+.photos2{
+    text-align:center
+}
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center
+}
+h4{
+    font-weight:lighter
+}
+body{
+    background-color:lightgray
+}
